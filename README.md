@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @danyip
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, I’m Dan!
+I'm a junior software engineer who loves to problem solve and to create efficient solutions.
+
+I'm currently honing my skills in full stack development at General Assembly.
+
+📫 hello@danyip.com
 
 <!---
 danyip/danyip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,9 @@
 ## 👋 Hi, I’m Dan!
 I'm a junior software engineer who loves to problem solve and to create efficient solutions.
 
-I'm currently honing my skills in full stack development at General Assembly.
+A recent graduate of General Assembly's Software Engineering Immersive.
+
+Currently on the lookout for an exciting opportunity to share my skills and learn from a great team.
 
 📫 hello@danyip.com
 
